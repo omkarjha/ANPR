@@ -74,7 +74,7 @@
      background-color: #000000b5;
      padding-bottom: 5rem;
      background-blend-mode: hue;
-     height: 91vh;
+     min-height: 91vh;
      overflow: hidden;
 }
 
